@@ -5,4 +5,3 @@ Flask-Session==0.3.2
 Flask-DebugToolbar==0.11.0
 PyLTI1p3==1.9.1
 Werkzeug==1.0.1
-jinja2==2.7.3
