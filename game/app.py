@@ -45,7 +45,7 @@ config = {
 }
 app.config.from_mapping(config)
 cache = Cache(app)
-toolbar = DebugToolbarExtension(app)
+# toolbar = DebugToolbarExtension(app)
 
 PAGE_TITLE = 'Game Example'
 
